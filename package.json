@@ -7,6 +7,8 @@
     "oauth": "^0.10.0",
     "request": "^2.88.2",
     "save": "^2.9.0",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "main":"server.js"
+    
   }
 }
